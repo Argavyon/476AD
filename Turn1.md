@@ -1,7 +1,7 @@
 # LATE 476  
   
 ## MAP  
-![map]https://i.imgur.com/UtxL0Ms.png  
+![map](https://i.imgur.com/UtxL0Ms.png)
   
 ## NEWS  
   
