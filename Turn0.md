@@ -1,7 +1,7 @@
 # EARLY 476  
   
 ## MAP  
-![map]https://i.imgur.com/Xu8CXp7.png  
+![map](https://i.imgur.com/Xu8CXp7.png)
   
 ### Sassanid Empire  
 Player: Coin  
