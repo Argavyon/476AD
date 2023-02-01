@@ -1,7 +1,7 @@
 # EARLY 477  
   
 ## MAP  
-![map]https://i.imgur.com/6EFCvJG.png  
+![map](https://i.imgur.com/6EFCvJG.png)
   
 ## NEWS  
   
