@@ -1,3 +1,6 @@
+![Map](https://cdn.discordapp.com/attachments/1060301122989981756/1061101841150128228/Late_476.png)
+![Map](https://upload.wikimedia.org/wikipedia/commons/0/0b/Europe_and_the_Near_East_at_476_AD.png)
+
 # Game Rules
 - Talents represent hard silver currency in your treasury. There is no limit to how many talents you can store.
  
